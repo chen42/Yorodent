@@ -1,0 +1,5 @@
+classes=13
+train = eartagTrain.txt 
+valid = eartagTest.txt
+names = /home/hao/Dropbox/git/yorodents/cfg/rat13.name
+backup= eartagWeights 
